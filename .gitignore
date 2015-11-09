@@ -1,0 +1,6 @@
+# .gitignore for Rest-Framework-Tutorial
+venv/**
+.idea/**
+rest_tutorial/snippets/migrations/**
+rest_tutorial/db.sqlite3
+*.pyc
